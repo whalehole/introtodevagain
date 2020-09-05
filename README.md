@@ -1,7 +1,5 @@
 # introtodevagain
 
-MY NAME IS CHIA YONG SAN, JUSTIN HIHIKASJDKJASAasdasdasdasdasdasdasdasdfghxzhdtahasdagddsg
+MY NAME IS CHIA YONG SAN, JUSTIN 
 
-Why is this so dumb
 
-why is this so dumb againzbasdasfghfghfgh

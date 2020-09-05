@@ -1,0 +1,3 @@
+if all checked
+action
+company

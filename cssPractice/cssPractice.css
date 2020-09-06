@@ -1,0 +1,10 @@
+#start {
+    border: solid 2px red;
+    border-width:200px;
+}
+.rootHeader {
+    color: pink;
+}
+p {
+    color: pink;
+}
